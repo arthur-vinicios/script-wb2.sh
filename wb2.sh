@@ -9,7 +9,7 @@
    apt-get install unzip
    apt-get install zip
    fi
-   #clear
+   clear
    N=0
    setterm -foreground red
    echo  
